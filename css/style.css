@@ -1,0 +1,119 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.wrapper{
+	border: 1px solid #000;
+	height: auto;
+	width: auto;
+	margin: auto;
+}
+.header{
+	border: 1px solid #0be39b;
+	height: auto;
+	width: 90%;
+	background: #0be39b;
+}
+.header{
+	display: flex;
+}
+.contact{
+	margin-left: 50px;
+	margin-top: 15px;
+	display: flex;
+}
+#search-text{
+	border: none;
+	outline: none;
+	background: #fff;
+	padding: 5px 7px;
+	font-size: 16px;
+	border-radius: 30px;
+}
+#search-btn{
+	background: #fff;
+	border: none;
+	outline: none;
+	padding: 5px 9px;
+	border-radius: 50%;
+}
+.search input{
+	width: 250px;
+	margin-top: 25px;
+	margin-left: 10px;
+
+}
+.hotline{
+	display: flex;
+	margin-right: 30px;
+}
+.hotline-icon{
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.login{
+	display: flex;
+	margin-right: 30px;
+}
+.login-icon{
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.cart{
+	display: flex;
+}
+.cart-icon{
+	margin-top: 10px;
+	margin-right: 10px;
+}
+.cart-text{
+	margin-top: 15px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+p{
+	font-size: 14px;
+}
+.menu{
+	border: 1px solid #e3250b;
+	height: 50px;
+	width: 90%;
+	background: #e3250b;
+	
+}
+.list-menu ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+
+}
+.list-menu ul li {
+    float: left;
+    margin: 12px;
+    border: 1px solid;
+    padding: 9px;
+}
+ul.list-menu li:hover {
+    background: bisque;
+}
+ul.list-menu li a {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+#main{
+	border: 1px solid #bf0be3;
+	height: 400px;
+	width: 90%;
+	background: #bf0be3;
+	ckground: #e3df0b;
+	
+}
+.footer{
+	border: 1px solid #e3df0b;
+	height: 150px;
+	width: 90%;
+	ba
+}
